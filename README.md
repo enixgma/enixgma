@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello World! This is XEI!🌟
 
-<!--
-**maxinemae/maxinemae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌴 Welcome to my little corner of GitHub! 
+I’m a passionate 3rd-year IT student🎓 exploring the endless possibilities of technology.  
+Currently working on some exciting projects and storytelling adventures! 📚💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me:
+- 🖥️ Novice Web Designer | Exploring the world of web design and UI/UX.
+- 🛠️ Tech Explorer | Always curious about new tools and languages.
+- ✍️ Storyteller | Writing my first ever  Wattpad series, Kalubihan Island 🌴.
+
+---
+
+## 🌟 Current Projects:
+- 🗂️ Lost & Found System
+  A PHP-MySQL project designed to reunite items with their owners.  
+  💡 Features: User-friendly interface, secure database, and streamlined item management.
+
+- 📖 Whispers Under Palms  
+  A Wattpad romance inspired by my province. 🏝️  
+  📝 Follow my story!
+
+---
+
+## 🚀 Skills & Tools:
+- 🌐 Web Tech: HTML, CSS, PHP, MySQL  
+- 🖌️ Design: Canva, Figma, Wordpress  
+
+---
+
+## 📫 Let's Connect:
+- 📧 Email: maxinebusiness03@gmail.com  
+- 🌐 Portfolio: Coming soon!  
+- 💌 Wattpad: [enixgma](https://www.wattpad.com/user/enixgma)
+
+---
+
+From crafting tales to crafting code, I shape possibilities. 💻✨
