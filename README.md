@@ -32,7 +32,8 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 
 ## 📫 Let's Connect:
 - 📧 Email: maxinebusiness03@gmail.com  
-- 🌐 Portfolio: Coming soon!  
+- 🌐 Portfolio: Coming soon!
+- 📝 Wordpress: https://maxinesayson.wordpress.com/?_gl=1*183ch5u*_gcl_au*MTAyNjUyMDg4OS4xNzM2NzY0MzAz
 - 💌 Wattpad: [enixgma](https://www.wattpad.com/user/enixgma)
 
 ---
