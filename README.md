@@ -33,8 +33,8 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 ## 📫 Let's Connect:
 - 📧 Email: maxinebusiness03@gmail.com  
 - 🌐 Portfolio: Coming soon!
-- 📝 Wordpress:
-  ○ https://tinyurl.com/kmcx2vzr
+- 📝 Wordpress (below is my work during my web design trainin)
+- ○ https://tinyurl.com/kmcx2vzr
 - 💌 Wattpad: [enixgma](https://www.wattpad.com/user/enixgma)
 
 ---
