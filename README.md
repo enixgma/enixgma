@@ -9,7 +9,7 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 ## 💡 About Me:
 - 🖥️ Novice Web Designer | Exploring the world of web design and UI/UX.
 - 🛠️ Tech Explorer | Always curious about new tools and languages.
-- ✍️ Storyteller | Writing my first ever  Wattpad series, Kalubihan Island 🌴.
+
 
 ---
 
@@ -18,9 +18,6 @@ Currently working on some exciting projects and storytelling adventures! 📚�
   A PHP-MySQL project designed to reunite items with their owners.  
   💡 Features: User-friendly interface, secure database, and streamlined item management.
 
-- 📖 Whispers Under Palms  
-  A Wattpad romance inspired by my province. 🏝️  
-  📝 Follow my story!
 
 ---
 
@@ -35,7 +32,7 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 - 🌐 Portfolio: Coming soon!
 - 📝 Wordpress (below is my work during my web design training)
 - ○ https://tinyurl.com/kmcx2vzr
-- 💌 Wattpad: [enixgma](https://www.wattpad.com/user/enixgma)
+
 
 ---
 
