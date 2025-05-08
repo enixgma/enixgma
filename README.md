@@ -17,8 +17,9 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 - 🗂️ Lost & Found System
   A PHP-MySQL project designed to reunite items with their owners.  
   💡 Features: User-friendly interface, secure database, and streamlined item management.
+  
 - 🧳 TravelSphere: Travel Packages and Tours Reservation System
-A tailored web-based platform built for a single travel agent to manage bookings and tour packages efficiently.
+- A tailored web-based platform built for a single travel agent to manage bookings and tour packages efficiently.
 💡 Features: Hassle-free reservations, agent-managed packages, traveler signups, and intuitive interface.
 
 ---
