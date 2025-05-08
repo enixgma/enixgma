@@ -1,4 +1,4 @@
-# 👋 Hello World! This is XEI!🌟
+ 👋 Hello World! This is XEI!🌟
 
 🌴 Welcome to my little corner of GitHub! 
 I’m a passionate 3rd-year IT student🎓 exploring the endless possibilities of technology.  
@@ -6,22 +6,24 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 
 ---
 
-## 💡 About Me:
+💡 About Me:
 - 🖥️ Novice Web Designer | Exploring the world of web design and UI/UX.
 - 🛠️ Tech Explorer | Always curious about new tools and languages.
 
 
 ---
 
-## 🌟 Current Projects:
+🌟 Current Projects:
 - 🗂️ Lost & Found System
   A PHP-MySQL project designed to reunite items with their owners.  
   💡 Features: User-friendly interface, secure database, and streamlined item management.
-
+- 🧳 TravelSphere: Travel Packages and Tours Reservation System
+A tailored web-based platform built for a single travel agent to manage bookings and tour packages efficiently.
+💡 Features: Hassle-free reservations, agent-managed packages, traveler signups, and intuitive interface.
 
 ---
 
-## 🚀 Skills & Tools:
+ Skills & Tools:
 - 🌐 Web Tech: HTML, CSS, PHP, MySQL  
 - 🖌️ Design: Canva, Figma, Wordpress  
 
