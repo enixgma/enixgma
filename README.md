@@ -10,18 +10,6 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 - 🖥️ Novice Web Designer | Exploring the world of web design and UI/UX.
 - 🛠️ Tech Explorer | Always curious about new tools and languages.
 
-
----
-
-🌟 Current Projects:
-- 🗂️ Lost & Found System
-  A PHP-MySQL project designed to reunite items with their owners.  
-  💡 Features: User-friendly interface, secure database, and streamlined item management.
-  
-- 🌴 TravelSphere: Travel Packages and Tours Reservation System
-  
-  💡 Features: Hassle-free reservations, agent-managed packages, traveler signups, and intuitive interface.
-
 ---
 
  Skills & Tools:
