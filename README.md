@@ -1,7 +1,7 @@
  👋 Hello World! This is XEI!🌟
 
 🌴 Welcome to my little corner of GitHub! 
-I’m a passionate 3rd-year IT student🎓 exploring the endless possibilities of technology.  
+I’m a passionate 4th-year IT student🎓 exploring the endless possibilities of technology.  
 Currently working on some exciting projects and storytelling adventures! 📚💻
 
 ---
@@ -13,8 +13,8 @@ Currently working on some exciting projects and storytelling adventures! 📚�
 ---
 
  Skills & Tools:
-- 🌐 Web Tech: HTML, CSS, PHP, MySQL  
-- 🖌️ Design: Canva, Figma, Wordpress  
+- 🌐 Web Tech: HTML, CSS, MySQL  
+- 🖌️ Design: Canva, Figma 
 
 ---
 
